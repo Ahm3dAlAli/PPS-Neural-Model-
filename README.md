@@ -1,6 +1,4 @@
-# PPS-Neural-Model-
-This Paper discusses and effects of mental illness disease as Schizophrenia affect on the human Peri-Personal Space and Multi Sensory Integration brain model encoded as a neural net architecture 
-🧠 Computational Cognitive Neuroscience Project 🌐
+# 🧠 Computational Cognitive Neuroscience Project 🌐
 
 Welcome to my computational cognitive neuroscience project! This project is focused on investigating the relationship between schizophrenia and the perception of peripersonal space.
 
