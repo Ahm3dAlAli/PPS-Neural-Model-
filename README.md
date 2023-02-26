@@ -43,7 +43,7 @@ We then used these models to simulate the effects of schizophrenia on periperson
 <a name="results"></a>
 ## 📊 Results
 
-Our results show that changes in neural connectivity and synaptic plasticity can indeed affect peripersonal space perception in people with schizophrenia. We found that people with schizophrenia have a smaller peripersonal space boundary, which may contribute to their symptoms.
+Our results show that changes in neural connectivity and synaptic plasticity can indeed affect peripersonal space perception in people with schizophrenia. We found that people with schizophrenia have a larger peripersonal space boundary, which may contribute to their symptoms.
 
 After running simulations using the model, we found some interesting results that shed light on the underlying mechanisms of cognitive processing in the brain. These results will be presented in a forthcoming publication.
 
