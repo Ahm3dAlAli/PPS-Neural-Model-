@@ -1,4 +1,4 @@
-# 🧠 Computational Cognitive Neuroscience Project 🌐
+# 🧠 Computational Cognitive Neuroscience 🌐
 
 Welcome to my computational cognitive neuroscience project! This project is focused on investigating the relationship between schizophrenia and the perception of peripersonal space. The aim of this project is to use computational cognitive neuroscience techniques to gain new insights into the neural mechanisms underlying peripersonal space perception and how they are affected by schizophrenia.
 
